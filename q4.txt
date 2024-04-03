@@ -1,0 +1,5 @@
+Building a dynamically typed programming language can offer significant advantages, including flexibility in coding,
+ease of use for beginners, and faster prototyping capabilities.
+It allows developers to write more concise and readable code by removing the need for explicit type declarations.
+This approach can foster rapid development and iteration, making it ideal for scripting, prototypes,
+and applications where development speed is more critical than performance or compile-time type safety.
