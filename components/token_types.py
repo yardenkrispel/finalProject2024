@@ -1,13 +1,13 @@
 INT = 'INT'                  # 7
 FLOAT = 'FLOAT'              # 1.3
-IDENTIFIER = 'IDENTIFIER'    # some variable [משתנה]
+IDENTIFIER = 'IDENTIFIER'    # some variable
 KEYWORD = 'KEYWORD'          # type of all the keywords like IF, WHILE, VAR, ...
 PLUS = 'PLUS'                # +
 MINUS = 'MINUS'              # -
 MUL = 'MUL'                  # *
 DIV = 'DIV'                  # /
 EQ = 'EQ'                    # equals
-LPAREN = 'LPAREN'            # ( parenthesis[סוגריים יעני]
+LPAREN = 'LPAREN'            # (
 RPAREN = 'RPAREN'            # )
 EE = 'EE'                    # ==
 NE = 'NE'                    # !=
