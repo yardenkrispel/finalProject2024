@@ -11,10 +11,6 @@ def generate_values():
     yield 3
 
 
-def not_generate_values():
-    return [1, 2, 3]
-
-
 def square(x):
     print(f'Squaring {x}')
 
